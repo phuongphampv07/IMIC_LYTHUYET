@@ -1,3 +1,4 @@
+https://niithanoi.edu.vn/8-loai-css-selector.html#basic
 # CSS SELECTORS
 
 ### In CSS, Selectors are patterns used to select the element(s) you want to style.
